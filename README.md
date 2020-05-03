@@ -1,5 +1,4 @@
 # Welcome to use coin price prediction model !
-***
 
 Deep learning, LSTM, bitcoin, price prediction, transaction, gateio
 
