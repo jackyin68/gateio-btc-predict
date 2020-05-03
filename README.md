@@ -1,10 +1,9 @@
 # Welcome to use coin price prediction model !
-
 ***
 
 Deep learning, LSTM, bitcoin, price prediction, transaction, gateio
 
-### Steps
+### Steps:
 
 Step 1: Download data by using gateio rest API
 
